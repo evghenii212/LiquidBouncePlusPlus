@@ -24,7 +24,7 @@ public class mineland extends SpeedMode {
             mc.timer.timerSpeed = 1F;
         }
         else {
-            mc.timer.timerSpeed = 1.5;
+            mc.timer.timerSpeed = 1.60919551f;
         }
     }
     @Override
